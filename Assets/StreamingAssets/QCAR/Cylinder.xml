@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="knyga" size="512.000000 384.000000" />
+    <ImageTarget name="kilimas" size="512.000000 384.000000" />
+    <ImageTarget name="test" size="512.000000 384.000000" />
+    <ImageTarget name="tarmac_scaled" size="5.000000 3.496094" />
+  </Tracking>
+</QCARConfig>

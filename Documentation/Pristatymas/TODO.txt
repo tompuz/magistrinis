@@ -1,0 +1,17 @@
++ projekto tema, universitetas, katedra, autoriaus vardas ir pavardė, vadovas, užsakovo įmonė/ užsakovo pavardė, vieta, metai
++-programų sistemos taikymo sritis,tikslas ir uždaviniai, aktualumas
++programų sistemos tfunkcijos, - vartotojui teikiamos paslaugos
++esminiai reikalavimai sistemai
++problemos formuluotė
++realizavimo technologijos
++pasirinktų sprendimų pagrindimas, remiantis metodų ir egzistuojančių sprendimų analize
+esminiai sprendimai pateikiami modelio, metamodelio, architektūros, algoritmo pavidale
++testavimo strategija, metodai, rezultatai
++programų sistemos parametrai (kodo eilučių kiekis, rezultatų tikslumas, skaičiavimų greitis, apsauga ir pan.)
++kaip inžininieriškai ir technologiškai realizuota (architektūros, vartotojo ąsajos, veiklos logikos, duomenų realizacijos modeliai, sąveikų, būsėnų ir veiklos diagramos)
++Kokie rezultatai gauti, kaip veikia sistema, kaip naudojasi vartotojai (vartotojo sąsajos ir funkcionalumo paveikslai)
++kur įdiegta, įdiegimo sprendimai
+esminės išvados: ar sistema veikia, kokios kokybės charakteristikos, kokybės įvertinimo mataavimai(grafikai, lentelės)
+išvados, numeruotos, pagrįstos
+Informacija apie rezultatų aprobavimą publikacijose, konferencijose
+Magistro tezių temos formuluotė
